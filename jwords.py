@@ -1,3 +1,5 @@
+
+#frequently used words 
 import tkinter
 from tkinter import *
 import random
